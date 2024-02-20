@@ -1,0 +1,72 @@
+h1{
+    background-color:#E7BCDE;
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+footer{
+    background-color: #FFB534;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+p{
+    text-align: justify;
+}
+h2{
+    text-align: center;
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.card{
+    box-shadow: 0 4px 8px rgba(128, 0, 128, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+img{
+    width: 100%;
+    border-radius: 5px;
+    align-items: center;
+
+}
+.experience-element {
+    border: 2px solid #3399FF;
+    padding: 15px;
+    margin: 10px;
+    background-color: #f0f8ff;
+    border-radius: 8px;
+  }
+  .boton1, .boton2, .boton3 {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .boton1 {
+    background-color: #4CAF50;
+    color: white;
+    
+  }
+  
+  .boton2 {
+    background-color: #008CBA;
+    color: white;
+  }
+  
+  .boton3 {
+    background-color: #FFD700;
+    color: black;
+  }
+  
+  .boton1:hover, .boton2:hover, .boton3:hover {
+    background-color: #333;
+    color: white;
+  }
+  .pokemon{
+    width: 50%;
+  }
